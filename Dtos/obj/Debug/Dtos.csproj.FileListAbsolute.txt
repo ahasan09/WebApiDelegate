@@ -1,0 +1,5 @@
+D:\Practice\EcapTraining\EcapPipeline\Dtos\bin\Debug\Dtos.dll
+D:\Practice\EcapTraining\EcapPipeline\Dtos\bin\Debug\Dtos.pdb
+D:\Practice\EcapTraining\EcapPipeline\Dtos\obj\Debug\Dtos.csprojResolveAssemblyReference.cache
+D:\Practice\EcapTraining\EcapPipeline\Dtos\obj\Debug\Dtos.dll
+D:\Practice\EcapTraining\EcapPipeline\Dtos\obj\Debug\Dtos.pdb

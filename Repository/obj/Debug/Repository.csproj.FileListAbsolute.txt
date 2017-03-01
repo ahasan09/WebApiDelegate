@@ -1,0 +1,4 @@
+D:\Practice\EcapTraining\EcapPipeline\Repository\bin\Debug\Repository.dll
+D:\Practice\EcapTraining\EcapPipeline\Repository\bin\Debug\Repository.pdb
+D:\Practice\EcapTraining\EcapPipeline\Repository\obj\Debug\Repository.dll
+D:\Practice\EcapTraining\EcapPipeline\Repository\obj\Debug\Repository.pdb

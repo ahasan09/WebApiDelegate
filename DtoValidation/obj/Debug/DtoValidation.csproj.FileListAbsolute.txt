@@ -1,0 +1,8 @@
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\bin\Debug\DtoValidation.dll
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\bin\Debug\DtoValidation.pdb
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\bin\Debug\Repository.dll
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\bin\Debug\SpecExpress.dll
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\bin\Debug\Repository.pdb
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\obj\Debug\DtoValidation.csprojResolveAssemblyReference.cache
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\obj\Debug\DtoValidation.dll
+D:\Practice\EcapTraining\EcapPipeline\DtoValidation\obj\Debug\DtoValidation.pdb
